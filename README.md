@@ -5,7 +5,13 @@
 
 <h1 align="center">📱Gerador de senhas</h1>
 <p align="center">🔑 Dê adeus para suas senhas fracas, crie agora senhas fortes e aleatórias! </p>
-
+	
+<div align="center">
+	<img src="https://github.com/luanLTS/gerador-de-senha-RN/blob/master/src/assets/print1.png" width=225 />
+	<img src="https://github.com/luanLTS/gerador-de-senha-RN/blob/master/src/assets/print2.png" width=225 />
+	<img src="https://github.com/luanLTS/gerador-de-senha-RN/blob/master/src/assets/print3.png" width=225 />
+	<img src="https://github.com/luanLTS/gerador-de-senha-RN/blob/master/src/assets/print4.png" width=225 />
+</div>
  
  # Sobre
  
